@@ -156,7 +156,6 @@ sidebar_label: Torrents
 - [Games4theworld](https://games4theworld.org) - Torrents and magnet links for games.
 - [GloTorrents](https://glodls.to/) - Download Movies, TV, Games and Other Torrents Free.
 - [HDCenter](https://hdcenter.cc/login.php) - (NL) - Games, Movies, eBooks & more.
-- [Idope (Clone)](https://idope.top/) - iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
 - [Isohunt2](https://isohunt2.net/) - Clone of the original ISOHunt torrent index and repository.
 - [KickAss Torrents](https://katcr.co/) - Community-made reincarnation launched in 2016.
 - [LBRY](https://beta.lbry.tv/) - & [source code](https://github.com/lbryio/lbrytv) - Search engine for games, videos, music & more.
