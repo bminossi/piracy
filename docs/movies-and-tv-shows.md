@@ -104,7 +104,6 @@ sidebar_label: Movies and TV shows
 - [Soap2day](https://www.soap2day.com/) - Unique design, very nice speeds, HD server with subtitles.
 - [Sokrostream.vip](https://sokrostream.vip/) - 2019 Films · 2018 Films · Action · Science-Fiction · Comédie · Horreur · Rapport.
 - [Solarmovie](https://solarmoviez.ru/) - Watch Movies Online and Watch Tv-Series online On Solarmovie without Registration.
-- [StreamCR](https://scr.cr/) - Watch movies and TV series online for free. Stream episodes of Game of Thrones, Breaking Bad, Stranger Things and more!.
 - [ShareMania.US](http://sharemania.us/) - (_insecure_) - HDTV, HD Music Videos, 1080i, 720p, Live, TV Shows.
 - [StreamCouch](https://www2.streamcouch.com/) - Watch free the newest movie stream indexed as they appear online, in HD high quality.
 - [Streamcomplete](https://streamcomplet.me/) - Streaming gratuit des films en VF, Regarder les meilleurs sélections des films complets en version française a voir online.
