@@ -185,6 +185,7 @@ sidebar_label: Torrents
 - [TorrentInvites](http://torrentinvites.org) - #1 to buy, trade, sell or find free Tracker Invites!.
 - [TorrentKing](https://torrentking.io/) - Torrentking is a popular movie torrent site.
 - [Torrentz2](https://torrentz2.is/) - [(mirror)](https://torrentz2.eu/) - A good replacement of the defunct Torrentz.eu.
+- [Idope (Clone)](https://idope.se/) iDope is a torrent search engine presenting direct magnet links, comments and up to date seeder/leecher statistics.
 - [Torrents-csv.ml](https://torrents-csv.ml) - An open-source torrent search engine tracker for all sorts of torrents.
 - [WebOas](https://weboas.is/) - A search engine designed to find warez, music and other stuff in public dirs.
 - [xbit.pw](http://xbit.pw/) - A Magnet site search engine.
