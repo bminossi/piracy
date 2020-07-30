@@ -3,7 +3,7 @@ module.exports = {
   tagline: "It's illegal cuz they can't tax you!",
   url: "https://piracy.now.sh",
   baseUrl: "/",
-  onBrokenLinks: "throw",
+  onBrokenLinks: "log",
   favicon: "img/favicon.ico",
   organizationName: "maximousblk", // Usually your GitHub org/user name.
   projectName: "piracy", // Usually your repo name.
