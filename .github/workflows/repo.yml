@@ -11,9 +11,9 @@ jobs:
 
     steps:
       - name: Install Deno
-        uses: denolib/setup-deno@master
+        uses: denolib/setup-deno@v2.1.0
         with:
-          deno-version: v1.1.0
+          deno-version: v1.2.1
 
       - name: Archive Repository
         run: deno run --allow-net https://archivegh.now.sh/ maximousblk/piracy -v -d 5
